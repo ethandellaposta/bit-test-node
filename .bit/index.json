@@ -1,0 +1,18 @@
+[
+  {
+    "id": {
+      "scope": null,
+      "name": "types"
+    },
+    "isSymlink": true,
+    "hash": "e7b1fff7007b635892a8f2c7c17f4fabc7aa2f8c"
+  },
+  {
+    "id": {
+      "scope": "yumidev.types",
+      "name": "types"
+    },
+    "isSymlink": false,
+    "hash": "81aa6ee31703936261de6e6e044a793dcb572d53"
+  }
+]
